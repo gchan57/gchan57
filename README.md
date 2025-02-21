@@ -1,5 +1,6 @@
 - 👋 Hi, I’m guna chandru
-- 👀 I’m interested in Flutter,AI and Ml and Electronics
+- 📚 Studying electronics and communication engineering
+- 👀 I’m interested in Flutter,AI and Ml too
 - 🌱 I’m currently learning flutter and Ml
 - 💞️ I’m looking to collaborate on flutter and ML projects
 
