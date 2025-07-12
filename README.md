@@ -1,7 +1,6 @@
 - 👋 Hi, I’m guna chandru
 - 📚 Studying electronics and communication engineering
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on MERN projects
 
 
 <!---
